@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirstApplicationDemo</string>
+    <string name="hello_name">Hello Guys Welcome to Python Session in Coding Academi</string>
+    <string name="submit_btn">SUBMIT</string>
+</resources>
