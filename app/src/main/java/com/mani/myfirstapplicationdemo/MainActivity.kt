@@ -29,6 +29,7 @@ class MainActivity : Activity(), View.OnClickListener {
         // Implement onClick Listeners for Button
 
         btnSubmit.setOnClickListener(this)
+        // Demo
 
     }
 
